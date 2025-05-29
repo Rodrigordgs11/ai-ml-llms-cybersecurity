@@ -1,0 +1,12 @@
+
+Model Accuracy Precision Recall F1-Score
+K-Nearest Neighbors 0.8507 0.8580 0.8507 0.8501
+Decision Tree 0.9981 0.9981 0.9981 0.9981
+Random Forest 0.9943 0.9943 0.9943 0.9943
+Logistic Regression 0.6383 0.6652 0.6383 0.6257
+SVM 0.2005 0.2068 0.2005 0.1444
+Gradient Boosting 0.9976 0.9977 0.9976 0.9976
+AdaBoost 0.4512 0.3258 0.4512 0.3505
+CatBoost 0.9976 0.9976 0.9976 0.9976
+LightGBM 0.9995 0.9995 0.9995 0.9995
+XGBoost0.9995 0.9995 0.9995 0.9995

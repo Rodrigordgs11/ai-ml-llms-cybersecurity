@@ -1,0 +1,55 @@
+|--- Timestamp <= 99992.50
+|   |--- Timestamp <= 59997.00
+|   |   |--- Timestamp <= 49996.50
+|   |   |   |--- Timestamp <= 39996.50
+|   |   |   |   |--- Timestamp <= 29998.00
+|   |   |   |   |   |--- Timestamp <= 19996.50
+|   |   |   |   |   |   |--- Flow ID <= 98874.00
+|   |   |   |   |   |   |   |--- Timestamp <= 9996.50
+|   |   |   |   |   |   |   |   |--- Flow ID <= 1.50
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Flow ID >  1.50
+|   |   |   |   |   |   |   |   |   |--- class: 4.0
+|   |   |   |   |   |   |   |--- Timestamp >  9996.50
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- Flow ID >  98874.00
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Timestamp >  19996.50
+|   |   |   |   |   |   |--- Destination IP <= 145.50
+|   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Destination IP >  145.50
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Timestamp >  29998.00
+|   |   |   |   |   |--- class: 3.0
+|   |   |   |--- Timestamp >  39996.50
+|   |   |   |   |--- Bwd Packets/s <= 0.19
+|   |   |   |   |   |--- class: 5.0
+|   |   |   |   |--- Bwd Packets/s >  0.19
+|   |   |   |   |   |--- class: 0.0
+|   |   |--- Timestamp >  49996.50
+|   |   |   |--- Init_Win_bytes_forward <= 126.50
+|   |   |   |   |--- class: 6.0
+|   |   |   |--- Init_Win_bytes_forward >  126.50
+|   |   |   |   |--- class: 0.0
+|   |--- Timestamp >  59997.00
+|   |   |--- Fwd Packet Length Max <= 503.50
+|   |   |   |--- Timestamp <= 79992.00
+|   |   |   |   |--- Fwd Packet Length Min <= 204.00
+|   |   |   |   |   |--- Flow ID <= 76810.50
+|   |   |   |   |   |   |--- class: 7.0
+|   |   |   |   |   |--- Flow ID >  76810.50
+|   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Fwd Packet Length Min >  204.00
+|   |   |   |   |   |--- class: 8.0
+|   |   |   |--- Timestamp >  79992.00
+|   |   |   |   |--- Fwd Packet Length Min <= 137.00
+|   |   |   |   |   |--- URG Flag Count <= 0.50
+|   |   |   |   |   |   |--- class: 9.0
+|   |   |   |   |   |--- URG Flag Count >  0.50
+|   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Fwd Packet Length Min >  137.00
+|   |   |   |   |   |--- class: 11.0
+|   |   |--- Fwd Packet Length Max >  503.50
+|   |   |   |--- class: 7.0
+|--- Timestamp >  99992.50
+|   |--- class: 10.0

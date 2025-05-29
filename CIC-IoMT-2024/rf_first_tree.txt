@@ -1,0 +1,1552 @@
+|--- rst_flag_number <= -0.54
+|   |--- Srate <= -0.10
+|   |   |--- ARP <= 12.32
+|   |   |   |--- Max <= 1.69
+|   |   |   |   |--- rst_count <= -0.22
+|   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |--- Duration <= -0.38
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Duration >  -0.38
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |--- Radius <= -0.47
+|   |   |   |   |   |   |   |   |--- Covariance <= -0.36
+|   |   |   |   |   |   |   |   |   |--- rst_count <= -0.37
+|   |   |   |   |   |   |   |   |   |   |--- AVG <= -0.37
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- AVG >  -0.37
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- rst_count >  -0.37
+|   |   |   |   |   |   |   |   |   |   |--- Covariance <= -0.36
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Covariance >  -0.36
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Covariance >  -0.36
+|   |   |   |   |   |   |   |   |   |--- Tot size <= -0.37
+|   |   |   |   |   |   |   |   |   |   |--- Radius <= -0.47
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- Radius >  -0.47
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Tot size >  -0.37
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= -0.42
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  -0.42
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Radius >  -0.47
+|   |   |   |   |   |   |   |   |--- rst_count <= -0.31
+|   |   |   |   |   |   |   |   |   |--- IPv <= -9.39
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- IPv >  -9.39
+|   |   |   |   |   |   |   |   |   |   |--- Variance <= 0.04
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Variance >  0.04
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |--- rst_count >  -0.31
+|   |   |   |   |   |   |   |   |   |--- ARP <= 5.73
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- ARP >  5.73
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |--- Tot size <= -0.37
+|   |   |   |   |   |   |   |--- rst_count <= -0.42
+|   |   |   |   |   |   |   |   |--- Protocol Type <= -1.03
+|   |   |   |   |   |   |   |   |   |--- Radius <= -0.41
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= -0.62
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  -0.62
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |--- Radius >  -0.41
+|   |   |   |   |   |   |   |   |   |   |--- LLC <= -10.86
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- LLC >  -10.86
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |--- Protocol Type >  -1.03
+|   |   |   |   |   |   |   |   |   |--- Radius <= -0.51
+|   |   |   |   |   |   |   |   |   |   |--- syn_count <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |   |   |   |   |   |   |--- syn_count >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Radius >  -0.51
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- rst_count >  -0.42
+|   |   |   |   |   |   |   |   |--- Protocol Type <= -1.03
+|   |   |   |   |   |   |   |   |   |--- rst_count <= -0.38
+|   |   |   |   |   |   |   |   |   |   |--- Duration <= -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- Duration >  -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- rst_count >  -0.38
+|   |   |   |   |   |   |   |   |   |   |--- AVG <= -0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- AVG >  -0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Protocol Type >  -1.03
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Radius <= -0.47
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- Radius >  -0.47
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Protocol Type <= 0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- Protocol Type >  0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- Tot size >  -0.37
+|   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |--- rst_count <= -0.40
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 15
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Min <= -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- Min >  -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- rst_count >  -0.40
+|   |   |   |   |   |   |   |   |   |--- Radius <= -0.45
+|   |   |   |   |   |   |   |   |   |   |--- UDP <= 0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- UDP >  0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Radius >  -0.45
+|   |   |   |   |   |   |   |   |   |   |--- IPv <= -6.46
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- IPv >  -6.46
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 23
+|   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |--- Max <= -0.42
+|   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.24
+|   |   |   |   |   |   |   |   |   |   |--- Radius <= -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 38
+|   |   |   |   |   |   |   |   |   |   |--- Radius >  -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.24
+|   |   |   |   |   |   |   |   |   |   |--- Min <= -0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- Min >  -0.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |   |--- Max >  -0.42
+|   |   |   |   |   |   |   |   |   |--- DNS <= 2.70
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= 0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 23
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 24
+|   |   |   |   |   |   |   |   |   |--- DNS >  2.70
+|   |   |   |   |   |   |   |   |   |   |--- HTTP <= 0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 20
+|   |   |   |   |   |   |   |   |   |   |--- HTTP >  0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |--- rst_count >  -0.22
+|   |   |   |   |   |--- Header_Length <= -0.21
+|   |   |   |   |   |   |--- rst_count <= -0.15
+|   |   |   |   |   |   |   |--- Covariance <= -0.36
+|   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- AVG <= -0.35
+|   |   |   |   |   |   |   |   |   |   |--- UDP <= 0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- UDP >  0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- AVG >  -0.35
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- Protocol Type <= 0.05
+|   |   |   |   |   |   |   |   |   |   |--- Std <= -0.44
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- Std >  -0.44
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- Protocol Type >  0.05
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- Covariance >  -0.36
+|   |   |   |   |   |   |   |   |--- DNS <= 2.70
+|   |   |   |   |   |   |   |   |   |--- Radius <= -0.33
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= 0.81
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  0.81
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |--- Radius >  -0.33
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= -0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  -0.31
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |--- DNS >  2.70
+|   |   |   |   |   |   |   |   |   |--- ack_count <= -0.56
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= 0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- ack_count >  -0.56
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- rst_count >  -0.15
+|   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- Std <= -0.43
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- Std >  -0.43
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- Magnitue <= -0.34
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Magnitue >  -0.34
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= 1.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  1.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |--- AVG <= -0.23
+|   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- AVG >  -0.23
+|   |   |   |   |   |   |   |   |   |--- UDP <= 0.03
+|   |   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- UDP >  0.03
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number <= -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number >  -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |--- Header_Length >  -0.21
+|   |   |   |   |   |   |--- ack_count <= 4.24
+|   |   |   |   |   |   |   |--- syn_flag_number <= -0.38
+|   |   |   |   |   |   |   |   |--- Radius <= -0.36
+|   |   |   |   |   |   |   |   |   |--- DNS <= 16.65
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 26
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- DNS >  16.65
+|   |   |   |   |   |   |   |   |   |   |--- TCP <= -2.70
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- TCP >  -2.70
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Radius >  -0.36
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 12
+|   |   |   |   |   |   |   |--- syn_flag_number >  -0.38
+|   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= -0.28
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= 0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  -0.28
+|   |   |   |   |   |   |   |   |   |   |--- Radius <= 0.40
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Radius >  0.40
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- ack_count >  4.24
+|   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |--- Max >  1.69
+|   |   |   |   |--- AVG <= 0.75
+|   |   |   |   |   |--- UDP <= 0.62
+|   |   |   |   |   |   |--- Max <= 3.02
+|   |   |   |   |   |   |   |--- ack_flag_number <= 0.61
+|   |   |   |   |   |   |   |   |--- rst_count <= -0.45
+|   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |   |   |   |   |--- Duration <= 0.54
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Duration >  0.54
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- rst_count >  -0.45
+|   |   |   |   |   |   |   |   |   |--- Radius <= 1.77
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- Radius >  1.77
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- ack_flag_number >  0.61
+|   |   |   |   |   |   |   |   |--- rst_count <= -0.29
+|   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- rst_count >  -0.29
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= 0.68
+|   |   |   |   |   |   |   |   |   |   |--- syn_count <= -0.79
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- syn_count >  -0.79
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  0.68
+|   |   |   |   |   |   |   |   |   |   |--- Covariance <= 1.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |   |--- Covariance >  1.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- Max >  3.02
+|   |   |   |   |   |   |   |--- rst_count <= -0.25
+|   |   |   |   |   |   |   |   |--- Magnitue <= 0.97
+|   |   |   |   |   |   |   |   |   |--- Protocol Type <= 0.05
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Protocol Type >  0.05
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- Magnitue >  0.97
+|   |   |   |   |   |   |   |   |   |--- syn_count <= -0.44
+|   |   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |--- syn_count >  -0.44
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- rst_count >  -0.25
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- UDP >  0.62
+|   |   |   |   |   |   |--- Tot size <= -0.09
+|   |   |   |   |   |   |   |--- Tot size <= -0.22
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Tot size >  -0.22
+|   |   |   |   |   |   |   |   |--- Magnitue <= 0.25
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Magnitue >  0.25
+|   |   |   |   |   |   |   |   |   |--- TCP <= -1.06
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- TCP >  -1.06
+|   |   |   |   |   |   |   |   |   |   |--- AVG <= 0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- AVG >  0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Tot size >  -0.09
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- AVG >  0.75
+|   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |--- Variance <= 0.62
+|   |   |   |   |   |   |   |--- Tot sum <= 0.01
+|   |   |   |   |   |   |   |   |--- ack_count <= -0.09
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- ack_count >  -0.09
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Tot sum >  0.01
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Variance >  0.62
+|   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |--- Tot sum <= 4.23
+|   |   |   |   |   |   |   |   |   |--- IAT <= 1.34
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- IAT >  1.34
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- Tot sum >  4.23
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |--- Tot sum <= 2.10
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Tot sum >  2.10
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |--- Header_Length <= -0.23
+|   |   |   |   |   |   |   |--- Magnitue <= 1.37
+|   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Magnitue >  1.37
+|   |   |   |   |   |   |   |   |--- Tot size <= -0.07
+|   |   |   |   |   |   |   |   |   |--- Magnitue <= 2.56
+|   |   |   |   |   |   |   |   |   |   |--- Radius <= 4.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Radius >  4.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Magnitue >  2.56
+|   |   |   |   |   |   |   |   |   |   |--- Max <= 3.16
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Max >  3.16
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Tot size >  -0.07
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Header_Length >  -0.23
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |--- ARP >  12.32
+|   |   |   |--- Min <= -0.29
+|   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |--- AVG <= -0.36
+|   |   |   |   |   |   |--- IAT <= 0.00
+|   |   |   |   |   |   |   |--- Tot sum <= -0.48
+|   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Tot sum >  -0.48
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- IAT >  0.00
+|   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |--- AVG >  -0.36
+|   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |--- Radius <= -0.47
+|   |   |   |   |   |   |--- Max <= -0.57
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Max >  -0.57
+|   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |--- Radius >  -0.47
+|   |   |   |   |   |   |--- Weight <= 0.00
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Weight >  0.00
+|   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |--- Min >  -0.29
+|   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |--- Std <= -0.44
+|   |   |   |   |   |   |--- ARP <= 13.78
+|   |   |   |   |   |   |   |--- rst_count <= -0.52
+|   |   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- rst_count >  -0.52
+|   |   |   |   |   |   |   |   |--- Magnitue <= -0.51
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Magnitue >  -0.51
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Min <= -0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |   |--- Min >  -0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |--- ARP >  13.78
+|   |   |   |   |   |   |   |--- IAT <= 0.00
+|   |   |   |   |   |   |   |   |--- Variance <= -1.56
+|   |   |   |   |   |   |   |   |   |--- Min <= -0.23
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Min >  -0.23
+|   |   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |--- Variance >  -1.56
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- IAT >  0.00
+|   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |--- Std >  -0.44
+|   |   |   |   |   |   |--- TCP <= -4.88
+|   |   |   |   |   |   |   |--- Weight <= 0.00
+|   |   |   |   |   |   |   |   |--- Variance <= 0.04
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= -0.44
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  -0.44
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= -0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  -0.18
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- Variance >  0.04
+|   |   |   |   |   |   |   |   |   |--- Tot size <= -0.18
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Tot size >  -0.18
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- Weight >  0.00
+|   |   |   |   |   |   |   |   |--- IPv <= -13.78
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- IPv >  -13.78
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |--- TCP >  -4.88
+|   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |--- Protocol Type <= -3.37
+|   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- Protocol Type >  -3.37
+|   |   |   |   |   |   |--- class: 2.0
+|   |--- Srate >  -0.10
+|   |   |--- Duration <= -0.49
+|   |   |   |--- fin_count <= -0.33
+|   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |--- Protocol Type <= -0.34
+|   |   |   |   |   |   |--- IPv <= -9.39
+|   |   |   |   |   |   |   |--- Protocol Type <= -3.18
+|   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= -0.29
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  -0.29
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |--- ARP <= 13.78
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- ARP >  13.78
+|   |   |   |   |   |   |   |   |   |   |--- Variance <= -0.69
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Variance >  -0.69
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- Protocol Type >  -3.18
+|   |   |   |   |   |   |   |   |--- Protocol Type <= -2.16
+|   |   |   |   |   |   |   |   |   |--- TCP <= -4.88
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- TCP >  -4.88
+|   |   |   |   |   |   |   |   |   |   |--- Duration <= -2.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Duration >  -2.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- Protocol Type >  -2.16
+|   |   |   |   |   |   |   |   |   |--- ARP <= 10.86
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- ARP >  10.86
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- IPv >  -9.39
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Protocol Type >  -0.34
+|   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |--- Srate <= -0.09
+|   |   |   |   |   |   |--- HTTP <= 0.52
+|   |   |   |   |   |   |   |--- HTTPS <= 2.01
+|   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- Tot size <= -0.32
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.17
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Tot size >  -0.32
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- IPv <= -2.07
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- IPv >  -2.07
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- HTTPS >  2.01
+|   |   |   |   |   |   |   |   |--- Header_Length <= 2.24
+|   |   |   |   |   |   |   |   |   |--- Tot size <= -0.35
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Tot size >  -0.35
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= 1.65
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  1.65
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |--- Header_Length >  2.24
+|   |   |   |   |   |   |   |   |   |--- Max <= 3.04
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Max >  3.04
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |--- HTTP >  0.52
+|   |   |   |   |   |   |   |--- Header_Length <= -0.24
+|   |   |   |   |   |   |   |   |--- Std <= 2.80
+|   |   |   |   |   |   |   |   |   |--- Duration <= -0.89
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Duration >  -0.89
+|   |   |   |   |   |   |   |   |   |   |--- Max <= -0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Max >  -0.26
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Std >  2.80
+|   |   |   |   |   |   |   |   |   |--- Weight <= 0.00
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.50
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Weight >  0.00
+|   |   |   |   |   |   |   |   |   |   |--- Min <= -0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Min >  -0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |--- Header_Length >  -0.24
+|   |   |   |   |   |   |   |   |--- Protocol Type <= 0.63
+|   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Protocol Type >  0.63
+|   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- AVG <= -0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |   |--- AVG >  -0.22
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Srate >  -0.09
+|   |   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |   |--- DNS <= 5.49
+|   |   |   |   |   |   |   |   |--- Magnitue <= -0.43
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Magnitue >  -0.43
+|   |   |   |   |   |   |   |   |   |--- LLC <= -0.60
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- LLC >  -0.60
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- DNS >  5.49
+|   |   |   |   |   |   |   |   |--- rst_count <= -0.52
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- rst_count >  -0.52
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |   |--- IGMP <= 11.39
+|   |   |   |   |   |   |   |   |--- AVG <= 0.40
+|   |   |   |   |   |   |   |   |   |--- syn_count <= -0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- syn_count >  -0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- AVG >  0.40
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- IGMP >  11.39
+|   |   |   |   |   |   |   |   |--- ARP <= 0.60
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- ARP >  0.60
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |--- fin_count >  -0.33
+|   |   |   |   |--- syn_flag_number <= -0.38
+|   |   |   |   |   |--- Max <= 2.14
+|   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Max >  2.14
+|   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |--- syn_flag_number >  -0.38
+|   |   |   |   |   |--- class: 2.0
+|   |   |--- Duration >  -0.49
+|   |   |   |--- IAT <= 1.35
+|   |   |   |   |--- Protocol Type <= 0.32
+|   |   |   |   |   |--- HTTPS <= 0.22
+|   |   |   |   |   |   |--- Variance <= 0.69
+|   |   |   |   |   |   |   |--- Number <= -1.18
+|   |   |   |   |   |   |   |   |--- Tot sum <= 0.21
+|   |   |   |   |   |   |   |   |   |--- psh_flag_number <= 0.81
+|   |   |   |   |   |   |   |   |   |   |--- Max <= -0.55
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Max >  -0.55
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |--- psh_flag_number >  0.81
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= -0.32
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  -0.32
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |--- Tot sum >  0.21
+|   |   |   |   |   |   |   |   |   |--- rst_count <= -0.48
+|   |   |   |   |   |   |   |   |   |   |--- Covariance <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Covariance >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- rst_count >  -0.48
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum <= 0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum >  0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |--- Number >  -1.18
+|   |   |   |   |   |   |   |   |--- Weight <= 0.59
+|   |   |   |   |   |   |   |   |   |--- Rate <= 0.20
+|   |   |   |   |   |   |   |   |   |   |--- Std <= -0.51
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- Std >  -0.51
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  0.20
+|   |   |   |   |   |   |   |   |   |   |--- Covariance <= -0.36
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Covariance >  -0.36
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Weight >  0.59
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number <= 0.61
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number >  0.61
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum <= 3.25
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum >  3.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |--- Variance >  0.69
+|   |   |   |   |   |   |   |--- ack_flag_number <= 0.61
+|   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |--- rst_count <= -0.35
+|   |   |   |   |   |   |   |   |   |   |--- TCP <= 0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- TCP >  0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- rst_count >  -0.35
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |--- cwr_flag_number <= 42.93
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- cwr_flag_number >  42.93
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- ack_flag_number >  0.61
+|   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.34
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.34
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- HTTPS >  0.22
+|   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |--- IAT <= 1.34
+|   |   |   |   |   |   |   |   |--- Tot sum <= -0.44
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= -0.46
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= -0.55
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  -0.55
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  -0.46
+|   |   |   |   |   |   |   |   |   |   |--- syn_count <= -0.79
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- syn_count >  -0.79
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- Tot sum >  -0.44
+|   |   |   |   |   |   |   |   |   |--- syn_count <= -0.79
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= 1.64
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 18
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  1.64
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- syn_count >  -0.79
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number <= 1.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number >  1.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- IAT >  1.34
+|   |   |   |   |   |   |   |   |--- ack_flag_number <= -1.01
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- ARP <= 9.39
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- ARP >  9.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- ack_flag_number >  -1.01
+|   |   |   |   |   |   |   |   |   |--- rst_count <= 0.57
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number <= 0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number >  0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- rst_count >  0.57
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -0.56
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -0.56
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |--- HTTPS <= 1.73
+|   |   |   |   |   |   |   |   |--- Weight <= -0.67
+|   |   |   |   |   |   |   |   |   |--- Min <= -0.20
+|   |   |   |   |   |   |   |   |   |   |--- Radius <= -0.43
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Radius >  -0.43
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |--- Min >  -0.20
+|   |   |   |   |   |   |   |   |   |   |--- IPv <= -0.60
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- IPv >  -0.60
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Weight >  -0.67
+|   |   |   |   |   |   |   |   |   |--- Std <= 3.58
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= -0.37
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  -0.37
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |--- Std >  3.58
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.45
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.45
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- HTTPS >  1.73
+|   |   |   |   |   |   |   |   |--- Rate <= -0.05
+|   |   |   |   |   |   |   |   |   |--- Duration <= -0.28
+|   |   |   |   |   |   |   |   |   |   |--- Number <= 0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- Number >  0.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |--- Duration >  -0.28
+|   |   |   |   |   |   |   |   |   |   |--- Variance <= -2.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 30
+|   |   |   |   |   |   |   |   |   |   |--- Variance >  -2.00
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 22
+|   |   |   |   |   |   |   |   |--- Rate >  -0.05
+|   |   |   |   |   |   |   |   |   |--- Rate <= 0.27
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum <= 6.45
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum >  6.45
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Rate >  0.27
+|   |   |   |   |   |   |   |   |   |   |--- Max <= 0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Max >  0.03
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |--- Protocol Type >  0.32
+|   |   |   |   |   |--- Tot size <= 4.12
+|   |   |   |   |   |   |--- UDP <= 5.35
+|   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |--- syn_count <= -0.79
+|   |   |   |   |   |   |   |   |   |--- Covariance <= 0.21
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= 0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 31
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  0.13
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 14
+|   |   |   |   |   |   |   |   |   |--- Covariance >  0.21
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 28
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |--- syn_count >  -0.79
+|   |   |   |   |   |   |   |   |   |--- Weight <= 0.00
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number <= -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 13
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number >  -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |   |   |--- Weight >  0.00
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 19
+|   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |--- Min <= -0.21
+|   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |--- AVG <= -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- AVG >  -0.24
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Min >  -0.21
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.09
+|   |   |   |   |   |   |   |   |   |   |--- HTTPS <= -0.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 23
+|   |   |   |   |   |   |   |   |   |   |--- HTTPS >  -0.01
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 17
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.09
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum <= 0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 16
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum >  0.12
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 11
+|   |   |   |   |   |   |--- UDP >  5.35
+|   |   |   |   |   |   |   |--- Magnitue <= 3.92
+|   |   |   |   |   |   |   |   |--- Header_Length <= 2.95
+|   |   |   |   |   |   |   |   |   |--- Weight <= 0.69
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.05
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 23
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.05
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 35
+|   |   |   |   |   |   |   |   |   |--- Weight >  0.69
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= 1.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  1.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- Header_Length >  2.95
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.09
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 10
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Magnitue >  3.92
+|   |   |   |   |   |   |   |   |--- Max <= 2.77
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= 1.70
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  1.70
+|   |   |   |   |   |   |   |   |   |   |--- Min <= 4.84
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Min >  4.84
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Max >  2.77
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- Tot size >  4.12
+|   |   |   |   |   |   |--- Protocol Type <= 1.79
+|   |   |   |   |   |   |   |--- HTTP <= 9.09
+|   |   |   |   |   |   |   |   |--- Weight <= 0.00
+|   |   |   |   |   |   |   |   |   |--- Std <= 3.32
+|   |   |   |   |   |   |   |   |   |   |--- Duration <= -0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Duration >  -0.14
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 8
+|   |   |   |   |   |   |   |   |   |--- Std >  3.32
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Weight >  0.00
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= 1.90
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  1.90
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- HTTP >  9.09
+|   |   |   |   |   |   |   |   |--- Std <= -0.15
+|   |   |   |   |   |   |   |   |   |--- Header_Length <= 1.27
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Header_Length >  1.27
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Std >  -0.15
+|   |   |   |   |   |   |   |   |   |--- Tot size <= 4.22
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Tot size >  4.22
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Protocol Type >  1.79
+|   |   |   |   |   |   |   |--- AVG <= 4.03
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- AVG >  4.03
+|   |   |   |   |   |   |   |   |--- HTTPS <= 2.26
+|   |   |   |   |   |   |   |   |   |--- Covariance <= -0.24
+|   |   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Covariance >  -0.24
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -1.01
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- HTTPS >  2.26
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |--- IAT >  1.35
+|   |   |   |   |--- class: 0.0
+|--- rst_flag_number >  -0.54
+|   |--- Min <= -0.25
+|   |   |--- ack_count <= -0.64
+|   |   |   |--- TCP <= -1.61
+|   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |--- LLC <= -5.00
+|   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- LLC >  -5.00
+|   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |--- DNS <= 16.65
+|   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- DNS >  16.65
+|   |   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |--- TCP >  -1.61
+|   |   |   |   |--- Max <= 3.13
+|   |   |   |   |   |--- fin_count <= 0.99
+|   |   |   |   |   |   |--- Std <= 4.44
+|   |   |   |   |   |   |   |--- HTTP <= 1.75
+|   |   |   |   |   |   |   |   |--- rst_count <= -0.35
+|   |   |   |   |   |   |   |   |   |--- Min <= -0.29
+|   |   |   |   |   |   |   |   |   |   |--- UDP <= 1.21
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- UDP >  1.21
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Min >  -0.29
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- rst_count >  -0.35
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number <= -0.04
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number >  -0.04
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- TCP <= -1.06
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- TCP >  -1.06
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- HTTP >  1.75
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Std >  4.44
+|   |   |   |   |   |   |   |--- Protocol Type <= 0.05
+|   |   |   |   |   |   |   |   |--- HTTPS <= 4.28
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- HTTPS >  4.28
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Protocol Type >  0.05
+|   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- fin_count >  0.99
+|   |   |   |   |   |   |--- LLC <= -0.60
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- LLC >  -0.60
+|   |   |   |   |   |   |   |--- rst_count <= -0.50
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- rst_count >  -0.50
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |--- Max >  3.13
+|   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |--- class: 3.0
+|   |   |--- ack_count >  -0.64
+|   |   |   |--- Covariance <= -0.36
+|   |   |   |   |--- Duration <= 0.08
+|   |   |   |   |   |--- IAT <= -0.90
+|   |   |   |   |   |   |--- fin_count <= -0.15
+|   |   |   |   |   |   |   |--- ARP <= 6.46
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- ARP >  6.46
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- fin_count >  -0.15
+|   |   |   |   |   |   |   |--- fin_flag_number <= -0.13
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- fin_flag_number >  -0.13
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |--- IAT >  -0.90
+|   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |--- Duration >  0.08
+|   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |--- rst_count <= -0.51
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- rst_count >  -0.51
+|   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- Duration <= 1.23
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- Duration >  1.23
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |--- Srate <= -0.09
+|   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |--- Srate >  -0.09
+|   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |--- Covariance >  -0.36
+|   |   |   |   |--- Header_Length <= 0.36
+|   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |--- Min <= -0.26
+|   |   |   |   |   |   |   |--- Duration <= 0.73
+|   |   |   |   |   |   |   |   |--- ack_count <= 0.16
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number <= -0.36
+|   |   |   |   |   |   |   |   |   |   |--- fin_count <= 1.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- fin_count >  1.19
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number >  -0.36
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= 0.60
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  0.60
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- ack_count >  0.16
+|   |   |   |   |   |   |   |   |   |--- IAT <= 1.34
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- IAT >  1.34
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Duration >  0.73
+|   |   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |   |--- Std <= 0.21
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Std >  0.21
+|   |   |   |   |   |   |   |   |   |   |--- TCP <= -0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |   |--- TCP >  -0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |   |--- Covariance <= 0.80
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |--- Covariance >  0.80
+|   |   |   |   |   |   |   |   |   |   |--- ack_count <= 0.59
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- ack_count >  0.59
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Min >  -0.26
+|   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Header_Length >  0.36
+|   |   |   |   |   |--- AVG <= 1.20
+|   |   |   |   |   |   |--- Max <= 1.80
+|   |   |   |   |   |   |   |--- ack_flag_number <= 0.12
+|   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- ack_flag_number >  0.12
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Max >  1.80
+|   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |--- AVG >  1.20
+|   |   |   |   |   |   |--- Protocol Type <= 0.05
+|   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |--- Protocol Type >  0.05
+|   |   |   |   |   |   |   |--- class: 0.0
+|   |--- Min >  -0.25
+|   |   |--- ack_count <= -0.64
+|   |   |   |--- Rate <= -0.09
+|   |   |   |   |--- Std <= 1.35
+|   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |--- Duration <= -0.03
+|   |   |   |   |   |   |   |--- HTTPS <= 1.51
+|   |   |   |   |   |   |   |   |--- Covariance <= -0.24
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Covariance >  -0.24
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- HTTPS >  1.51
+|   |   |   |   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- Duration >  -0.03
+|   |   |   |   |   |   |   |--- ack_flag_number <= 0.61
+|   |   |   |   |   |   |   |   |--- Max <= -0.42
+|   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.26
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.26
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- Max >  -0.42
+|   |   |   |   |   |   |   |   |   |--- UDP <= 0.91
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- UDP >  0.91
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- ack_flag_number >  0.61
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |--- HTTPS <= 1.51
+|   |   |   |   |   |   |   |--- Covariance <= 0.80
+|   |   |   |   |   |   |   |   |--- Tot sum <= 1.12
+|   |   |   |   |   |   |   |   |   |--- rst_flag_number <= -0.21
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- rst_flag_number >  -0.21
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Tot sum >  1.12
+|   |   |   |   |   |   |   |   |   |--- TCP <= -2.15
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- TCP >  -2.15
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Covariance >  0.80
+|   |   |   |   |   |   |   |   |--- TCP <= -0.52
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- TCP >  -0.52
+|   |   |   |   |   |   |   |   |   |--- Variance <= -0.78
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- Variance >  -0.78
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- HTTPS >  1.51
+|   |   |   |   |   |   |   |--- ack_flag_number <= -0.04
+|   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- UDP <= 0.62
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- UDP >  0.62
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum <= -0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Tot sum >  -0.41
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |--- ack_flag_number >  -0.04
+|   |   |   |   |   |   |   |   |--- Max <= 0.77
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Max >  0.77
+|   |   |   |   |   |   |   |   |   |--- Max <= 1.11
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Max >  1.11
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |--- Std >  1.35
+|   |   |   |   |   |--- Tot sum <= 1.43
+|   |   |   |   |   |   |--- Std <= 1.36
+|   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |--- Std >  1.36
+|   |   |   |   |   |   |   |--- Variance <= 0.52
+|   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |--- rst_count <= -0.51
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- rst_count >  -0.51
+|   |   |   |   |   |   |   |   |   |   |--- HTTPS <= 4.53
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- HTTPS >  4.53
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |--- syn_count <= -0.82
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- syn_count >  -0.82
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Variance >  0.52
+|   |   |   |   |   |   |   |   |--- HTTPS <= 3.53
+|   |   |   |   |   |   |   |   |   |--- Number <= 0.67
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- Number >  0.67
+|   |   |   |   |   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- HTTPS >  3.53
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |--- Tot sum >  1.43
+|   |   |   |   |   |   |--- Protocol Type <= 0.11
+|   |   |   |   |   |   |   |--- Covariance <= 5.54
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Covariance >  5.54
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Protocol Type >  0.11
+|   |   |   |   |   |   |   |--- Max <= 2.99
+|   |   |   |   |   |   |   |   |--- syn_count <= -0.38
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- syn_count >  -0.38
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Max >  2.99
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |--- Rate >  -0.09
+|   |   |   |   |--- Magnitue <= -0.36
+|   |   |   |   |   |--- Covariance <= -0.36
+|   |   |   |   |   |   |--- Rate <= -0.08
+|   |   |   |   |   |   |   |--- Magnitue <= -0.53
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Magnitue >  -0.53
+|   |   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- Rate >  -0.08
+|   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |--- syn_flag_number <= -0.28
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- syn_flag_number >  -0.28
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.01
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.01
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number <= -1.19
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- ack_flag_number >  -1.19
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |--- Covariance >  -0.36
+|   |   |   |   |   |   |--- Magnitue <= -0.48
+|   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- Magnitue >  -0.48
+|   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |--- Magnitue >  -0.36
+|   |   |   |   |   |--- Rate <= 6.25
+|   |   |   |   |   |   |--- syn_count <= -0.40
+|   |   |   |   |   |   |   |--- Header_Length <= 0.03
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Header_Length >  0.03
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- syn_count >  -0.40
+|   |   |   |   |   |   |   |--- Rate <= 0.04
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Rate >  0.04
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Rate >  6.25
+|   |   |   |   |   |   |--- Protocol Type <= 1.50
+|   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- Protocol Type >  1.50
+|   |   |   |   |   |   |   |--- class: 3.0
+|   |   |--- ack_count >  -0.64
+|   |   |   |--- Std <= -0.42
+|   |   |   |   |--- Tot sum <= -0.45
+|   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |--- fin_count <= 0.26
+|   |   |   |   |   |   |   |--- rst_count <= -0.44
+|   |   |   |   |   |   |   |   |--- syn_flag_number <= -0.19
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- syn_flag_number >  -0.19
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- rst_count >  -0.44
+|   |   |   |   |   |   |   |   |--- rst_flag_number <= -0.01
+|   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- rst_flag_number >  -0.01
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number <= -0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number >  -0.04
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- fin_count >  0.26
+|   |   |   |   |   |   |   |--- Covariance <= -0.36
+|   |   |   |   |   |   |   |   |--- Std <= -0.47
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Std >  -0.47
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Covariance >  -0.36
+|   |   |   |   |   |   |   |   |--- Variance <= 0.13
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Variance >  0.13
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |--- Tot sum >  -0.45
+|   |   |   |   |   |--- LLC <= -1.19
+|   |   |   |   |   |   |--- Weight <= -0.67
+|   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Weight >  -0.67
+|   |   |   |   |   |   |   |--- HTTP <= 1.75
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- HTTP >  1.75
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- LLC >  -1.19
+|   |   |   |   |   |   |--- HTTPS <= 1.21
+|   |   |   |   |   |   |   |--- rst_count <= -0.39
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- rst_count >  -0.39
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |--- HTTPS >  1.21
+|   |   |   |   |   |   |   |--- Min <= -0.22
+|   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Min >  -0.22
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |--- Std >  -0.42
+|   |   |   |   |--- Protocol Type <= 0.01
+|   |   |   |   |   |--- Weight <= 0.67
+|   |   |   |   |   |   |--- rst_count <= -0.35
+|   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |--- Tot sum <= -0.33
+|   |   |   |   |   |   |   |   |   |--- AVG <= -0.34
+|   |   |   |   |   |   |   |   |   |   |--- Std <= -0.39
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Std >  -0.39
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- AVG >  -0.34
+|   |   |   |   |   |   |   |   |   |   |--- fin_count <= -0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- fin_count >  -0.23
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |--- Tot sum >  -0.33
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |--- Weight <= -0.90
+|   |   |   |   |   |   |   |   |   |--- syn_flag_number <= -0.14
+|   |   |   |   |   |   |   |   |   |   |--- Tot size <= 0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- Tot size >  0.25
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- syn_flag_number >  -0.14
+|   |   |   |   |   |   |   |   |   |   |--- ece_flag_number <= 32.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |   |--- ece_flag_number >  32.39
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |--- Weight >  -0.90
+|   |   |   |   |   |   |   |   |   |--- HTTP <= -0.03
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |--- HTTP >  -0.03
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- rst_count >  -0.35
+|   |   |   |   |   |   |   |--- Tot sum <= -0.44
+|   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |--- Tot sum >  -0.44
+|   |   |   |   |   |   |   |   |--- Tot sum <= 0.30
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number <= -0.36
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- ack_flag_number >  -0.36
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue <= -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Magnitue >  -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- Tot sum >  0.30
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |--- Weight >  0.67
+|   |   |   |   |   |   |--- HTTPS <= 3.02
+|   |   |   |   |   |   |   |--- Std <= 1.30
+|   |   |   |   |   |   |   |   |--- syn_flag_number <= 0.00
+|   |   |   |   |   |   |   |   |   |--- TCP <= -0.52
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- TCP >  -0.52
+|   |   |   |   |   |   |   |   |   |   |--- syn_count <= -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- syn_count >  -0.33
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |--- syn_flag_number >  0.00
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Duration <= -0.04
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- Duration >  -0.04
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.10
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length <= -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |   |--- Header_Length >  -0.27
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |--- Std >  1.30
+|   |   |   |   |   |   |   |   |--- Duration <= 0.58
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Duration >  0.58
+|   |   |   |   |   |   |   |   |   |--- Rate <= -0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Rate >  -0.09
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |--- HTTPS >  3.02
+|   |   |   |   |   |   |   |--- AVG <= 4.78
+|   |   |   |   |   |   |   |   |--- psh_flag_number <= 1.26
+|   |   |   |   |   |   |   |   |   |--- Tot sum <= 4.05
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number <= 0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- psh_flag_number >  0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- Tot sum >  4.05
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number <= -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |   |--- syn_flag_number >  -0.38
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- psh_flag_number >  1.26
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |--- AVG >  4.78
+|   |   |   |   |   |   |   |   |--- Min <= 5.12
+|   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- Min >  5.12
+|   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |--- Protocol Type >  0.01
+|   |   |   |   |   |--- Duration <= 1.02
+|   |   |   |   |   |   |--- Srate <= -0.10
+|   |   |   |   |   |   |   |--- syn_flag_number <= 0.00
+|   |   |   |   |   |   |   |   |--- Tot sum <= -0.42
+|   |   |   |   |   |   |   |   |   |--- fin_count <= 0.10
+|   |   |   |   |   |   |   |   |   |   |--- Std <= -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Std >  -0.35
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- fin_count >  0.10
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |--- Tot sum >  -0.42
+|   |   |   |   |   |   |   |   |   |--- Min <= -0.24
+|   |   |   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 4
+|   |   |   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 2
+|   |   |   |   |   |   |   |   |   |--- Min >  -0.24
+|   |   |   |   |   |   |   |   |   |   |--- ack_count <= 0.76
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 7
+|   |   |   |   |   |   |   |   |   |   |--- ack_count >  0.76
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 5
+|   |   |   |   |   |   |   |--- syn_flag_number >  0.00
+|   |   |   |   |   |   |   |   |--- Max <= -0.22
+|   |   |   |   |   |   |   |   |   |--- syn_flag_number <= 0.38
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- syn_flag_number >  0.38
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- Max >  -0.22
+|   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- Srate >  -0.10
+|   |   |   |   |   |   |   |--- Protocol Type <= 0.63
+|   |   |   |   |   |   |   |   |--- Std <= 3.39
+|   |   |   |   |   |   |   |   |   |--- syn_flag_number <= 0.00
+|   |   |   |   |   |   |   |   |   |   |--- UDP <= 0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |   |   |--- UDP >  0.20
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- syn_flag_number >  0.00
+|   |   |   |   |   |   |   |   |   |   |--- class: 1.0
+|   |   |   |   |   |   |   |   |--- Std >  3.39
+|   |   |   |   |   |   |   |   |   |--- Magnitue <= 2.66
+|   |   |   |   |   |   |   |   |   |   |--- class: 3.0
+|   |   |   |   |   |   |   |   |   |--- Magnitue >  2.66
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Protocol Type >  0.63
+|   |   |   |   |   |   |   |   |--- ack_count <= 0.38
+|   |   |   |   |   |   |   |   |   |--- Tot size <= 1.96
+|   |   |   |   |   |   |   |   |   |   |--- rst_count <= -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 6
+|   |   |   |   |   |   |   |   |   |   |--- rst_count >  -0.52
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 3
+|   |   |   |   |   |   |   |   |   |--- Tot size >  1.96
+|   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |--- ack_count >  0.38
+|   |   |   |   |   |   |   |   |   |--- Covariance <= 0.02
+|   |   |   |   |   |   |   |   |   |   |--- Max <= 0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |   |--- Max >  0.06
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |   |   |   |--- Covariance >  0.02
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |--- Duration >  1.02
+|   |   |   |   |   |   |--- AVG <= -0.32
+|   |   |   |   |   |   |   |--- rst_flag_number <= 0.92
+|   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- rst_flag_number >  0.92
+|   |   |   |   |   |   |   |   |--- class: 2.0
+|   |   |   |   |   |   |--- AVG >  -0.32
+|   |   |   |   |   |   |   |--- Min <= 0.08
+|   |   |   |   |   |   |   |   |--- IAT <= 1.35
+|   |   |   |   |   |   |   |   |   |--- rst_count <= -0.13
+|   |   |   |   |   |   |   |   |   |   |--- DNS <= 13.86
+|   |   |   |   |   |   |   |   |   |   |   |--- truncated branch of depth 9
+|   |   |   |   |   |   |   |   |   |   |--- DNS >  13.86
+|   |   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- rst_count >  -0.13
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |--- IAT >  1.35
+|   |   |   |   |   |   |   |   |   |--- HTTP <= 2.36
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |   |   |--- HTTP >  2.36
+|   |   |   |   |   |   |   |   |   |   |--- class: 0.0
+|   |   |   |   |   |   |   |--- Min >  0.08
+|   |   |   |   |   |   |   |   |--- class: 2.0
